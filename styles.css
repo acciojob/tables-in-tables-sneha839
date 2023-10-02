@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+.main-table,
+.row1-data1,
+.row1-data2,
+.row2-data1,
+.row2-data2,
+.table2,
+.table1,
+.table3,
+.table4,
+.t2-head {
+	border: 1px solid black;
+}
+.row1-data1 {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.table2 {
+	padding: 2px 20px ;
+}
+.t2-head {
+	padding: 2px;
+}
