@@ -9,6 +9,6 @@ table, tr, th, td {
 	padding: 2px;
 }
 .html-row {
-	background-color: black;
+	background-color: rgb(0, 0, 0);
 	color: white;
 }
