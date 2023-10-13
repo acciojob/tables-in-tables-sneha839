@@ -22,7 +22,7 @@ table, tr, th, td {
 	width: 100%;
 }
 .html-row {
-	background-color: rgb(0, 0, 0);
+	background-color: black;
 	color: white;
 }
 #t3-cell {
